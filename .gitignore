@@ -30,6 +30,7 @@ __pycache__/
 *.so
 .Python
 build/
+src-tauri/binaries/pdf-engine-*
 develop-eggs/
 dist/
 downloads/
